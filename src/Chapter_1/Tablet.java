@@ -5,7 +5,7 @@ interface Gadget{
         return 1;
     }
 }
-
+// finl commit
 abstract class Electronic{
     void getPower(){
         System.out.println("plug in ");
